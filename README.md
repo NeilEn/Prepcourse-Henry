@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Prep course de henry para modulo 2
+Este proyecto es una prueba del prerp course de henry
